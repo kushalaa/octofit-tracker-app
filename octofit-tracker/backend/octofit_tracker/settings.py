@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-9evbjlv6&5hc^2b^f0zgy3ik3iefspde=gqr+y5i3e4cgnl!3e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'didactic-barnacle-g79w6qg746fp9qv-8000.app.github.dev']
 
 
 # Application definition
